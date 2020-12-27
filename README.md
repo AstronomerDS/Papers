@@ -1,4 +1,4 @@
-# papers
+# Papers
 Papers about Machine Learning
 
 ------------------------
