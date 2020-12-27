@@ -27,3 +27,8 @@ Papers about Machine Learning
 ## 6. Natural Language Processing (NLP)   
   + [Deep learning for NLP(without magic)(2012), R. Socher et al](https://dl.acm.org/doi/abs/10.5555/2390500.2390505)
   + [Energy and Policy Considerations for Deep Learning in NLP (2019), [E. Strubell et al](https://arxiv.org/abs/1906.02243)
+
+-----------------------------
+# Webite
+  + [Keras Korea](https://github.com/KerasKorea)
+  + [Tensorflow Korea](https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/)
